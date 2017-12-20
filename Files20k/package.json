@@ -1,0 +1,47 @@
+{
+  "name": "testproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "handlebars": "4.0.10",
+    "minimatch": "3.0.2",
+    "typed-rest-client": "^0.12.0",
+    "vsts-task-lib": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/handlebars": "^3.0.28",
+    "@types/minimatch": "^2.0.29",
+    "@types/mocha": "^2.2.5",
+    "@types/mockery": "1.4.29",
+    "@types/node": "6.0.31",
+    "assert": "1.4.1",
+    "mocha": "^4.0.1",
+    "mocha-tap-reporter": "0.1.3",
+    "mockery": "2.1.0",
+    "nyc": "^11.2.1",
+    "sinon": "4.0.1",
+    "typescript": "1.8.7",
+    "nock": "^9.1.0",
+    "source-map-support": "^0.4.14",
+    "@octokit/fixtures": "^5.4.0",
+    "apidoc": "^0.17.6",
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "gh-pages-with-token": "^1.0.0",
+    "glob": "^7.1.2",
+    "mkdirp": "^0.5.1",
+    "mustache": "^2.2.1",
+    "npm-run-all": "^4.1.1",
+    "proxyquire": "^1.8.0",
+    "semantic-release": "^11.0.0",
+    "simple-mock": "^0.8.0",
+    "standard": "^10.0.3",
+    "standard-markdown": "^4.0.2"
+  },
+  "author": "gykuma",
+  "license": "ISC"
+}
